@@ -1,7 +1,6 @@
 .artigo{
-    width: 1280px;
+    width: 80%;
     background-color: rgba(200, 200, 200);
-    padding: 40px;
     margin:40px auto;
     text-align: center;
 }
@@ -11,6 +10,7 @@
     font-family:Georgia, "Times New Roman", Times, serif ;
     font-style: italic;
     font-weight: bold;
+    letter-spacing: 10px;
 }
 .artigo p{
     color:#7c7878;
@@ -19,6 +19,5 @@
     font-family:'tahoma';
     font-style: normal;
     font-weight: bold;
-    line-height: 40px;
-    margin-top: 12px;
+    
 }
