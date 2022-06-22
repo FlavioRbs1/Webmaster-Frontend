@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+html, body{
+    background-color: bisque;
+}
+.tipo1{
+    font-size: 100px;
+}
+
+.tipo2{
+    color: (100,100,100);
+    font-size: 110px;
+}
+.link_{
+    font-size: 30px;
+} 
